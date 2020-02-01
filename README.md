@@ -1,0 +1,1 @@
+# Linear-regression-curve-fitting-using-Least-square-method-in-c
